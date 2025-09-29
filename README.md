@@ -1,6 +1,6 @@
 # Minimum Wage and Employment: A Difference-in-Differences Analysis of Canadian Labour Markets (2001–2019)
 
-Independent, term-long research paper for **ECO339H – Labour Economics I (Fall 2023)** under **Prof. Michael Baker**.  
+Independent, term-long research paper for **ECO339H – Labour Economics I (Fall 2023)** under the instruction of **Prof. Michael Baker**.  
 Explores the employment impact of provincial minimum-wage policy changes on low-wage workers using the Canadian Labour Force Survey (2001–2019).
 
 ## 📄 Paper
